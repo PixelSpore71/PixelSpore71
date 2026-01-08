@@ -5,6 +5,7 @@
 - 📫 How to reach me: discord.gg/pixelspore71
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: im good at editing
+- 🖌️ Learning UI/UX
 
 <!---
 PixelSpore71/PixelSpore71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
